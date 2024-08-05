@@ -18,7 +18,7 @@ You can either click the deploy button to deploy directly on Zerops, or manually
 
 ## Recipe features
 
-- Latest version of **Analog** with SSr running on a **Zerops Node.js** service.
+- Latest version of **Analog** with SSR running on a **Zerops Node.js** service.
 
 <br/>
 
