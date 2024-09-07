@@ -6,8 +6,6 @@ zerops:
         - pnpm i
         - pnpm build
       deployFiles:
-        - public
-        - node_modules
         - dist
     run:
       base: nodejs@20
